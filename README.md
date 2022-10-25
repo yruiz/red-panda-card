@@ -2,11 +2,11 @@
 
 ## Project Description:
 
-  ### This is a trading card that holds:
-    - image
-    - short description
-    - facts about the animal
-    - long description
+This is a trading card that holds:
+  - image
+  - short description
+  - facts about the animal
+  - long description
  
 A small project that makes use of HTML and CSS.
 
