@@ -8,6 +8,6 @@
     - facts about the animal
     - long description
  
-A small projectthat makes use of HTML and CSS.
+A small project that makes use of HTML and CSS.
 
 Credit for the image goes to [Ivan Cujic](https://www.pexels.com/photo/photo-of-red-panda-sleeping-on-tree-branch-2265247/)
