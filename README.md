@@ -2,6 +2,10 @@
 
 ## Project Description:
 
+<p align="center">
+  <img width="300" height="460" src="./img/red_panda_screenshot.PNG">
+</p>
+
 This is a trading card that holds:
   - image
   - short description
