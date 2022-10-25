@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<link rel="stylesheet" href="styles.css">
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+</head>
+<body>
+  <div class="outer-box">
+	<div>
+		<h3>Red Panda</h3>
+		<img class="image-settings img-card" src="pexels_red_panda.jpg" alt="sleepy red panda">
+		<div class="info-card">
+			<p class="interesting-facts">Red pandas spend most of their time in trees and are famous for their incredible acrobatic skills</p>
+			<ul>
+				<li><span class="bold-text">Scientific Name</span>: Ailurus fulgens</li>
+				<li><span class="bold-text">Average Length</span>: Body length 51–63.5cm and Tail length 28–48.5 cm</li>
+				<li><span class="bold-text">Average Lifespand</span>: 14 years</li>
+				<li><span class="bold-text">Habitat</span>: Forest</li>
+			</ul>
+			<p>The red panda's coat is mainly red or orange-brown with a black belly and legs. The muzzle, cheeks, brows and inner ear margins are mostly white while the bushy tail has red and buff ring patterns and a dark brown tip.The colouration appears to serve as camouflage in habitat with red moss and white lichen-covered trees.</p>
+		</div>
+	</div>
